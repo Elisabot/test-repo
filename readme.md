@@ -7,7 +7,7 @@ Where I try all the things.
 Features
 --------
 
-- I will learn to use Git GUI on windows.
+- I will learn to use Git GUI on windows. And maybe do something with MEAN stack.
 
 
 License
